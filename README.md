@@ -34,5 +34,5 @@ You can adjust it's position in window, offset and text color. It uses PureLayou
 [JBPerformanceLogger setTextColor:[UIColor greenColor]];
 ```
 
-## ISSUES
+## Issues
 Feel free to raise an issue if you find bug or you have some suggestion for improving it.
